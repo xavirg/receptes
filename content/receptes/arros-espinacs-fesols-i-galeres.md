@@ -23,5 +23,3 @@ lastmod: 2019-01-17
 - Sal al gust
 
 Primer de tot hem de fregir les galeres. Una vegada fetes, es retiren en un plat i utilitzem l'oli restant per sofregir la ceba, el pebrot i l'all porro. Quan està daurat, hi afegim els espinacs crus. Mentrestant se sofregeix tot, fem una picada amb els alls, el ramet de julivert, el tomàquet, el pebre roig i la sal. Afegim la picada al sofregit i hi tirem el mig gotet de vi. Una vegada reduït el vi, hi afegim el litre d'aigua i ho deixem bullir uns cinc minuts. Passats aquests cinc minuts, hi afegim l'arròs i els fesols, i ho deixem coure 13 minuts. Cinc minuts abans de treure'l del foc, hi afegim les galeres trossejades.
-
-*Foto i recepta: Turisme de l'Ametlla de Mar*

@@ -23,7 +23,3 @@ Sofregim les verdures a foc mig perquè es vagin caramel·litzant una mica amb l
 Fem bullir el fumet de peix. Quan arribi a l'ebullició, l'afegim a l'arròs i el coem a foc fort durant 10 minuts. Seguidament baixem el foc a mig i ho acabem de coure 5 minuts més. Afegim sal al gust.
 
 Afegim el rap, els llagostins i les galeres, i ho acabem de coure al forn a 220º durant 5 minuts més. Traiem l'arròs del forn i el deixem reposar uns 3 o 4 minuts abans de servir-lo.
-
-Bon profit!
-
-*Foto i recepta del [Restaurant Les Veles](https://lesveles.es/ca/), durant les Jornades de la Galera de les Terres de l'Ebre.*

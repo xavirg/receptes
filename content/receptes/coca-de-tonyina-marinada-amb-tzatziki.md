@@ -33,7 +33,3 @@ Mentrestant, torrarem la coca de vidre al forn uns 14 minuts a 165 graus.
 **Muntatge**
 
 Sobre la coca torrada hi afegirem la barreja del tzatziki de cogombre i alvocat. A sobre hi afegirem la tonyina marinada en forma d'ones o de flors i, al damunt, els germinats. Finalment ho decorarem amb l'oliva deshidratada.
-
-Bon profit!
-
-*Recepta del restaurant [Golpe de Estado](https://www.ametllamar.cat/turisme/ca/punt-dinteres/golpe-de-estado_395/), a l'Ametlla de Mar.*

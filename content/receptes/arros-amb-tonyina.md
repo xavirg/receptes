@@ -21,5 +21,3 @@ lastmod: 2018-05-01
 - 1 litre d'aigua o de brou de peix
 
 Tallem la ceba i el pebrot vermell i els posem a daurar a la paella amb una mica d'oli. A part, fem una picada amb l'all, julivert, el tomàquet, un polsim de sal i el pebre roig. Quan tenim la ceba daurada, hi afegim la picada i ho sofregim tot plegat un minut. Hi afegirem els pèsols i el mig got de vi. Quan el vi s'ha evaporat, hi afegirem l'aigua o el brou de peix, i ho deixarem bullir uns 5 minuts aproximadament. Després hi afegirem la tonyina i ho deixarem bullir uns 5 minuts més. A continuació hi tirarem l'arròs i ho deixarem bullint de 12 a 14 minuts. Rectificarem la sal al gust i ja tindrem l'arròs amb tonyina.
-
-*Foto i text: Turisme de l'Ametlla de Mar*

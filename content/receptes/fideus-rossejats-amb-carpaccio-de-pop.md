@@ -39,5 +39,3 @@ Tallem a daus petits la ceba, el pebrot roig i els tomàquets madurs. Els daurem
 Daurem els fideus al forn fins que tinguin un color marró fosc, amb el forn a 200 graus. Un cop daurats, els afegim a una paella amb una miqueta d'oli d'oliva i hi anem afegint el sofregit i els talls de pop. Deixem que s'integri tot i hi afegim el fumet calent. Quan comenci a bullir, ho deixem 5 minuts a foc fort i després ho baixem uns 3 minuts fins que s'acabi d'evaporar el fumet. Finalment ho deixem al forn uns 3 minuts més.
 
 Un cop fora del forn, hi escampem una mica de pebre fumat, escames de sal i un raig d'oli d'oliva. Es pot acompanyar amb allioli.
-
-*Recepta i fotografia del Restaurant Les Veles.*

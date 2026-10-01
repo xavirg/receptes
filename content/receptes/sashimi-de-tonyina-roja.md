@@ -17,5 +17,3 @@ Primer de tot, triarem un bon saku, el rectangle de llom de tonyina que fem serv
 Un cop tinguem el sashimi suficient, el disposarem en un plat, preferiblement rectangular. Abans, haurem pintat la base amb salsa de soja i després hi afegirem els talls de tonyina roja de manera ordenada, lleugerament sobreposats els uns als altres. A continuació, hi afegirem una línia de tòfona ratllada i uns trossets d'alga cruixent.
 
 Per finalitzar, ho reguem amb un raig d'oli d'oliva verge i ja tindrem la nostra recepta de sashimi de tonyina roja a punt.
-
-*Foto i recepta: By @madolphi (Tomàs Also Felicidad)*

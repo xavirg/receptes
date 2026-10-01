@@ -28,5 +28,3 @@ Posem la mantega i la farina en una paella i fem una roux a foc lent. Després h
 Sofregim el porro amb l'oli i, quan estigui calent, hi afegim els llagostins i el rap trossejat, seguit del vi, i ho deixem infusionar. Per altra banda, agafem la pasta filo i hi creem el ravioli al nostre gust; el fiquem al forn durant 8 minuts i quedarà llest per farcir-lo i decorar la crema.
 
 Recepta per a 8 racions.
-
-*Foto i recepta del [Restaurant Les Veles](https://lesveles.es/ca/)*

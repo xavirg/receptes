@@ -28,5 +28,3 @@ Tornarem a posar l'oli a escalfar i hi afegirem mitja picada; ho sofregirem i af
 Ho portarem a l'ebullició i ho deixarem bullir uns deu minuts; després hi afegirem els fesols i l'escrita, i ho deixarem bullir a foc mig uns deu minuts més.
 
 Rectificarem de sal i llest!
-
-*Font i foto: Turisme de l'Ametlla de Mar*

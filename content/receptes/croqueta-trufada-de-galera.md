@@ -37,5 +37,3 @@ Col·loquem el preparat en una safata i el tapem amb paper film tocant la part s
 Per arrebossar, primer passem per farina, després per ou batut i finalment per pa ratllat barrejat amb panko, per aconseguir un arrebossat cruixent.
 
 Acompanyament del plat: gambeta petita i maionesa d'alga nori.
-
-*Foto i recepta: [Les Veles Restaurant](https://www.visitametllademar.com/ca/pois/les-veles-beach)*

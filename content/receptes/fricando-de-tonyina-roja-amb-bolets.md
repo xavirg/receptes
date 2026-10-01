@@ -19,5 +19,3 @@ lastmod: 2021-08-19
 Per començar a elaborar aquest fricandó de tonyina vermella, enfarinarem la tonyina i la marcarem a la paella amb una mica d'oli.
 
 Retirem la tonyina i sofregim les cebes a foc suau. Un cop les cebes hagin canviat de color i siguin gairebé transparents, hi afegim un pessic de sal, un pessic de pebre blanc i un de nou moscada. Hi incorporem els bolets o les verdures al gust i hi afegim la tonyina i un generós got de vi blanc. Si les verdures no són de cocció ràpida, primer les escaldarem o les courem. Ho tapem i ho deixem a foc suau durant 5 minuts perquè s'incorporin tots els ingredients.
-
-*Recepta cedida pel restaurant Ponent de l'Ametlla de Mar, per a les Jornades de la tonyina vermella de la Mediterrània.*

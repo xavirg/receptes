@@ -21,5 +21,3 @@ Posem a escalfar oli d'oliva verge extra en una cassola i hi afegim pells de gal
 **Emplatat**
 
 Escalfem la velouté i en posem una cullerada al mig del plat. Amb el biberó, posem unes gotetes d'oli de galera al voltant de la velouté per perfumar-la. Fregim la croqueta en abundant oli de gira-sol o d'oliva suau, li traiem l'oli sobrant amb paper de cuina i la col·loquem centrada damunt la velouté.
-
-*Foto i recepta: [Restaurant Mestral](https://www.visitametllademar.com/ca/pois/restaurant-mestral)*

@@ -25,5 +25,3 @@ Enfarinem el peix i el posem a la cassola amb oli calent. Després hi tirem el c
 Quan el conyac s'hagi reduït una mica, hi tirem la picada i després el caldo, i ho deixem coure uns 10-12 minuts.
 
 Recepta per a 4 persones.
-
-*Font: Taller Ocupacional Avant. Foto: Xavier Solé*

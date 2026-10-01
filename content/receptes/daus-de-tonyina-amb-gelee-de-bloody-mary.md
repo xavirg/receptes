@@ -37,5 +37,3 @@ Escollim la part de la tonyina més vermella i la tallem a daus (ni molt grans n
 Emplatem al gust.
 
 *Aquesta recepta de daus de tonyina roja conté alcohol.*
-
-*Recepta cedida pel Restaurant Mestral de l'Ametlla de Mar. Foto: Turisme de l'Ametlla de Mar.*
