@@ -1,0 +1,43 @@
+{{ define "main" }}
+<input type="text" id="search" placeholder="Cerca una recepta…" autofocus
+       oninput="filterRecipes(this.value)">
+
+<div class="brutal-grid">
+    {{ $allRecipes := where .Site.RegularPages "Type" "receptes" }}
+    {{ range .Site.Params.categoryOrder }}
+        {{ $cat := . }}
+        {{ $pages := (where $allRecipes "Params.categories" "intersect" (slice $cat)).ByTitle }}
+        {{ if $pages }}
+        <div class="category" data-count="{{ len $pages }}">
+            <h2>{{ partial "category-label.html" $cat }}</h2>
+            <ul>
+                {{ range $pages }}
+                <li class="recipe-item" data-title="{{ .Title }}">
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+    {{ end }}
+</div>
+
+<script>
+function stripAccents(s) {
+    return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+}
+function filterRecipes(query) {
+    var needle = stripAccents(query.trim());
+    document.querySelectorAll('.category').forEach(function (cat) {
+        var visible = 0;
+        cat.querySelectorAll('.recipe-item').forEach(function (li) {
+            var hay = stripAccents(li.dataset.title);
+            var show = hay.indexOf(needle) !== -1;
+            li.style.display = show ? '' : 'none';
+            if (show) visible++;
+        });
+        cat.style.display = visible > 0 ? '' : 'none';
+    });
+}
+</script>
+{{ end }}

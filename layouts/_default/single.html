@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="recipe-page">
+    <article>
+        <h2>{{ .Title }}</h2>
+        <hr>
+        <div class="recipe-body">
+            {{ .Content }}
+        </div>
+    </article>
+    <hr>
+    <p>
+        <a href="{{ .Site.Home.RelPermalink }}">&larr; tornar</a>
+    </p>
+</div>
+{{ end }}

@@ -1,0 +1,50 @@
+baseURL = "https://xavirg.github.io/receptes/"
+locale = "ca"
+title = "Receptes"
+
+# Categories are grouped by hand on the home page (layouts/index.html) via
+# "where .Site.RegularPages Params.categories", so Hugo's own taxonomy/term
+# pages, and the auto-generated /receptes/ section list, are not needed.
+disableKinds = ["RSS", "sitemap", "robotsTXT", "404", "taxonomy", "term", "section"]
+
+# Content lives in content/receptes/ (so it's clear what the folder holds),
+# but the repo itself is already served at .../receptes/ on GitHub Pages —
+# without this, URLs would double up as /receptes/receptes/<slug>/.
+[permalinks]
+# Use the actual filename (already a clean ASCII slug) rather than Hugo's
+# auto slug, which would keep accents from the title
+# (e.g. "crema-de-calabacín").
+receptes = "/:filename/"
+
+[params]
+categoryOrder = [
+  "Amanides i entrants",
+  "Sopes i cremes",
+  "Arrossos i pasta",
+  "Llegums i verdures",
+  "Carns",
+  "Peixos i mariscos",
+  "Ous i làctics",
+  "Postres i dolços",
+  "Salses",
+  "Begudes",
+  "Altres",
+]
+
+# Emoji prefix shown next to each category name (layouts/partials/category-label.html).
+[params.categoryEmoji]
+"Amanides i entrants" = "🥗"
+"Sopes i cremes" = "🍲"
+"Arrossos i pasta" = "🍝"
+"Llegums i verdures" = "🥦"
+"Carns" = "🥩"
+"Peixos i mariscos" = "🐟"
+"Ous i làctics" = "🥚"
+"Postres i dolços" = "🍰"
+"Salses" = "🥣"
+"Begudes" = "🥤"
+"Altres" = "🍽️"
+
+[markup.goldmark.renderer]
+hardWraps = true
+unsafe = false

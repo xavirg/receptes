@@ -1,0 +1,16 @@
+{{- /*
+  Renders "el <date>" or "l'<date>".
+  Elision only happens before a day whose spoken Catalan number starts
+  with a vowel sound. Day 1 is "u" and day 11 is "onze" - both vowel-
+  initial, so they take "l'". Days 21 and 31 are "vint-i-u" and
+  "trenta-u" - they end in "u" but start with the consonant "v"/"t",
+  so they still take "el", same as every other day.
+*/ -}}
+{{- $t := . -}}
+{{- $day := $t.Day -}}
+{{- $datestr := time.Format ":date_long" $t -}}
+{{- if or (eq $day 1) (eq $day 11) -}}
+l'{{ $datestr }}
+{{- else -}}
+el {{ $datestr }}
+{{- end -}}
